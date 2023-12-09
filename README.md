@@ -13,7 +13,7 @@ The major 5 features of the websites are:
 * on click on the update button he can  update the product details. On update page he can find the previous value on the input find (by default)
 * On the cart page user can find the products that he add to the cart.He can delete the product by clicking on the  delete button. If he delete the product he will see a confirmation message
 
-## After clone this project you need to install **npm i **
+## After clone this project you need to install (npm i)
 
 ## The languages and frame works used here
  [![My Skills](https://skillicons.dev/icons?i=js,html,css,firebase,express,mongodb,nodejs)](https://skillicons.dev)
